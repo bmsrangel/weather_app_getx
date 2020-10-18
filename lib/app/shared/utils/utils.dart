@@ -1,5 +1,5 @@
 class Utils {
-  static const String appKey = "beeaea5ce7587c7857f1c260e7e3f883";
+  static const String appKey = "<API Key Here>";
 
   static const String baseUrl = "http://api.openweathermap.org/data/2.5";
 
